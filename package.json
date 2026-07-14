@@ -1,0 +1,9 @@
+{
+  "name": "galaxy-tunnel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Android Dev Mode'",
+    "build": "echo 'Android Build Mode'"
+  }
+}
