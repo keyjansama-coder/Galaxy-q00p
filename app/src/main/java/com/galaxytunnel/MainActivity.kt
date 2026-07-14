@@ -1633,7 +1633,7 @@ fun SettingsSelectButton(
 @Composable
 fun ImportConfigsScreen(
     language: String,
-    importedServers: List<com.example.ImportedServer>,
+    importedServers: List<com.galaxytunnel.ImportedServer>,
     onImportServer: (name: String, config: String) -> Unit,
     onDeleteServer: (id: Int) -> Unit,
     onClearAll: () -> Unit
